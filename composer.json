@@ -1,0 +1,12 @@
+{
+    "name": "kruger/composer-project",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Jorge Alves",
+            "email": "jorge.mnf.alves@gmail.com"
+        }
+    ]
+}

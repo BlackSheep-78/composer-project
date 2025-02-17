@@ -1,0 +1,19 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+.code-workspace
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore compiled files
+*.o
+*.so
+*.exe
+*.dll
+
+# Ignore dependency directories
+node_modules/
+vendor/
